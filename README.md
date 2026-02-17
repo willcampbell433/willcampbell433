@@ -1,8 +1,8 @@
 # Hey, I'm Will 👋
 
-**Head of Infrastructure @ [Galaxy Digital](https://www.galaxy.com)** · Building blockchain infra by day, AI-powered tools by night.
+**Head of Solana Infrastructure @ [Galaxy Digital](https://www.galaxy.com)** · Building blockchain infra by day, AI-powered tools by night.
 
-I design and operate large-scale infrastructure across AWS, GCP, Azure, and bare-metal — Kubernetes clusters, Terraform pipelines, CI/CD systems, and everything in between. On the side, I'm building SaaS products with AI at the core.
+I design and operate large-scale blockchain and cloud infrastructure across AWS, GCP, Azure, and bare-metal. Kubernetes clusters, Terraform pipelines, validator operations, CI/CD systems, and everything in between.
 
 ---
 
@@ -16,20 +16,11 @@ I design and operate large-scale infrastructure across AWS, GCP, Azure, and bare
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Solana](https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Solana](https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
-
----
-
-### 🚀 What I'm Building
-
-| Project | Description |
-|---------|-------------|
-| **[InterviewPrepBuddy](https://github.com/willcampbell433/interview-prep-buddy)** | AI-powered interview prep app with voice coaching, real-time code execution, and adaptive study modes |
-| **[AptAgent](https://github.com/willcampbell433/aptagent)** | NYC apartment finder — AI agent that searches, scores, and surfaces listings that actually match |
 
 ---
 
