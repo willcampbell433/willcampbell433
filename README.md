@@ -1,6 +1,6 @@
 # Hey, I'm Will 👋
 
-**Head of Solana Infrastructure @ [Galaxy Digital](https://www.galaxy.com)** · Building blockchain infra by day, AI-powered tools by night.
+**Head of Solana Infrastructure @ [Galaxy](https://www.galaxy.com)** · Building blockchain infra by day, AI-powered tools by night.
 
 I design and operate large-scale blockchain and cloud infrastructure across AWS, GCP, Azure, and bare-metal. Kubernetes clusters, Terraform pipelines, validator operations, CI/CD systems, and everything in between.
 
