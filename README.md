@@ -33,4 +33,4 @@ I design and operate large-scale blockchain and cloud infrastructure across AWS,
 
 ---
 
-<sub>NYC · [LinkedIn](https://www.linkedin.com/in/willcampbell433/) · Infrastructure engineer who believes the best systems are the ones you forget are there.</sub>
+<sub>NYC · [LinkedIn](https://www.linkedin.com/in/will-campbell) · Infrastructure engineer who believes the best systems are the ones you forget are there.</sub>
